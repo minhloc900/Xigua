@@ -313,10 +313,10 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "Toilaminhlocday Hub",
-    SubTitle = "Blox Fruit",
+    Title = "XIGUA Hub",
+    SubTitle = "by minh loc",
     TabWidth = 160,
-    Theme = "Dark",
+    Theme = "Rose",
     Acrylic = false,
     Size = UDim2.fromOffset(500, 320),
     MinimizeKey = Enum.KeyCode.End
