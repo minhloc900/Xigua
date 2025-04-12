@@ -2677,10 +2677,10 @@ if game:GetService("ReplicatedStorage").Effect.Container:FindFirstChild("Respawn
     game:GetService("ReplicatedStorage").Effect.Container.Respawn:Destroy();
 end
 v16.Home:AddButton({
-    Title = "Discord",
-    Description = "Giao Lưu",
+    Title = "Telegram",
+    Description = "nhấn vào đê sao chep ",
     Callback = function()
-        setclipboard("https://discord.gg/tboyroblox");
+        setclipboard("https://t.me/+jrjgJajhd-diOTg1");
     end
 });
 _G.FastAttackStrix_Mode = "Super Fast Attack";
